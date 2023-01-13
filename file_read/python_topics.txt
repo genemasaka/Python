@@ -1,0 +1,6 @@
+In Python you can learn data types
+In Python you can learn functions
+In Python you can learn control flow
+In Python you can learn classes
+In Python you can learn loops
+In Python you can learn user input

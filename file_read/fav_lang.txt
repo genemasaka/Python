@@ -1,0 +1,3 @@
+prince : python
+nehru : javascript
+gabbie : java
